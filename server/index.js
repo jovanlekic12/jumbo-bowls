@@ -4,6 +4,7 @@ import dotenv from "dotenv";
 import express from "express";
 import mongoose from "mongoose";
 import dns from "dns";
+import Product from "./models/productModel.js";
 dns.setServers(["1.1.1.1", "1.0.0.1"]);
 
 const app = express();
@@ -28,4 +29,13 @@ app.listen(PORT, () => {
 });
 app.get("/", (req, res) => {
   res.send("Hello World!!");
+});
+
+app.post("/api/products", async (req, res) => {
+  try {
+    const product = await Product.create(req.body);
+    res.status(201).json(product);
+  } catch (error) {
+    res.status(400).json({ message: error.message });
+  }
 });

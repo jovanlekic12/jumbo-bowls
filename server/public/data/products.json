@@ -1,0 +1,361 @@
+[
+  {
+    "name": "Over the rainbow",
+    "price": 9.97,
+    "image": "https://jumbo-bowls.onrender.com/dist/public/images/covers/bowl8.avif",
+    "calories": 500,
+    "nutriScore": 77,
+    "summary": "Discovers a burst of colorful flavors that will leave you craving more, one bite at a time.",
+    "description": "Embark on a vibrant culinary journey with our Over the Rainbow poke bowl. Take your pick from a variety of bases, and savor the mouthwatering combination of spicy tuna, succulent krab. With refreshing cucumber, a burst of mixed greens, and a hint of Wonton  crisps, every bite will transport you to flavor paradise. Drizzled with our fiery Sweet yuzu sauce, this bowl is a high-protein sensation with a spicy kick!",
+    "rating": 4.7,
+    "ingredients": {
+      "bases": ["White rice", "Brown rice", "Noodles", "Mixed Greens"],
+      "proteins": ["Spicey tuna", "Krab"],
+      "mixinsAndToppings": ["Cucumber", "Mixed Greens", "Wonton crisps"],
+      "sauces": ["Sweet yuzu"]
+    },
+    "ingredientsImages": {
+      "bases": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/whiteRice.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/brownRice.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/noodles.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/mixedGreens.png"
+      ],
+      "proteins": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/proteins/tuna.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/proteins/krab.png"
+      ],
+      "sauces": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/sauces/SweetYuzu.png"
+      ],
+      "mixinsAndToppings": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/toppings/cucumbers.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/mixedGreens.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/toppings/wontonCrisps.png"
+      ]
+    },
+    "labels": ["High-protein", "Spicey"],
+    "reviews": [""]
+  },
+
+  {
+    "name": "The O.G. 1997",
+    "price": 8.99,
+    "image": "https://jumbo-bowls.onrender.com/dist/public/images/covers/bowl3.avif",
+
+    "calories": 650,
+    "nutriScore": 75,
+    "summary": "Taste the poke bowl that started it all, and let your cravings meet their match.",
+    "description": "Indulge in a fiber-rich delight that will make your taste buds dance! With a medley of refreshing mixed greens, creamy avocado, and a sprinkle of sesame seeds, this poke bowl is the ultimate classic. Get ready for a burst of flavors that will leave you craving for more!",
+    "rating": 4.9,
+    "ingredients": {
+      "bases": ["Sushi rice", "Brown rice", "Noodles", "Mixed Greens"],
+      "proteins": ["Chicken"],
+      "mixinsAndToppings": ["Avocado", "Mixed Greens", "Cilantro", "Scallion"],
+      "sauces": ["Poke Classic"]
+    },
+    "ingredientsImages": {
+      "bases": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/whiteRice.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/brownRice.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/noodles.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/mixedGreens.png"
+      ],
+      "proteins": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/proteins/bbqChicken.png"
+      ],
+      "sauces": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/sauces/PokeClassic.png"
+      ],
+      "mixinsAndToppings": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/toppings/avocado.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/mixedGreens.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/toppings/scallions.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/toppings/sesameSeeds.png"
+      ]
+    },
+    "labels": ["Fiber-rich"],
+    "reviews": [""]
+  },
+  {
+    "name": "Island BBQ",
+    "price": 9.39,
+    "image": "https://jumbo-bowls.onrender.com/dist/public/images/covers/bowl2.avif",
+    "calories": 820,
+    "nutriScore": 68,
+    "summary": "Spice up your palate with an island-inspired poke bowl that will transport you to tropical bliss.",
+    "description": "Transport your senses to a tropical paradise with our Island BBQ poke bowl. Picture tender morsels of spice-infused goodness paired with the crispiness of corn and the zing of Hawaiian salsa. Topped off with a touch of sesame seeds and a hint of jalapeno, this bowl is an explosion of taste that will ignite your palate!",
+    "rating": 4.8,
+    "ingredients": {
+      "bases": ["Sushi rice", "Brown rice", "Noodles", "Mixed Greens"],
+      "proteins": ["Tuna"],
+      "mixinsAndToppings": ["Corn", "Carrot", "Hawaiian Salsa", "Sesame seeds"],
+      "sauces": ["Avocado lime"]
+    },
+    "ingredientsImages": {
+      "bases": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/whiteRice.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/brownRice.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/noodles.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/mixedGreens.png"
+      ],
+      "proteins": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/proteins/tuna.png"
+      ],
+      "sauces": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/sauces/AvocadoLime.png"
+      ],
+      "mixinsAndToppings": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/toppings/corn.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/toppings/carrots.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/toppings/salsa.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/toppings/sesameSeeds.png"
+      ]
+    },
+    "labels": ["Classic", "Spicey"],
+    "reviews": [""]
+  },
+  {
+    "name": "Golden Hour",
+    "price": 9.99,
+    "image": "https://jumbo-bowls.onrender.com/dist/public/images/covers/bowl5.avif",
+    "calories": 600,
+    "nutriScore": 80,
+    "summary": "Elevate your dining experience with the golden flavors of this exquisite poke bowl.",
+    "description": "Step into a golden realm of culinary perfection with our Golden Hour poke bowl. Choose from a variety of bases, from sushi rice to brown rice or noodles. Dive into the ocean of flavors with salmon or krab, complemented by a delightful mix of avocado, scallion, carrot, and more. Drizzle it all with our tantalizing Counter Sauce, and you've got yourself a bowl worth savoring!",
+    "rating": 4.9,
+    "ingredients": {
+      "bases": ["Sushi Rice", "Brown rice", "Noodles", "Mixed Greens"],
+      "proteins": ["Salmon", "Krab"],
+      "mixinsAndToppings": ["Scallion", "Radish sporuts", "Cucumber", "Masago"],
+      "sauces": ["Counter Sauce"]
+    },
+    "ingredientsImages": {
+      "bases": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/whiteRice.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/brownRice.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/noodles.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/mixedGreens.png"
+      ],
+      "proteins": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/proteins/salmon.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/proteins/krab.png"
+      ],
+      "sauces": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/sauces/CounterSauce.png"
+      ],
+      "mixinsAndToppings": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/toppings/scallions.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/toppings/radishSprouts.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/toppings/cucumbers.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/toppings/massago.png"
+      ]
+    },
+    "labels": ["Fiber-rich", "Gluten-free"],
+    "reviews": [""]
+  },
+  {
+    "name": "Trippy",
+    "price": 7.99,
+    "image": "https://jumbo-bowls.onrender.com/dist/public/images/covers/bowl4.webp",
+    "calories": 480,
+    "nutriScore": 81,
+    "summary": "Take a flavorful trip into the world of vegetarian delights with this vibrant poke bowl.",
+    "description": "Embark on a flavor-filled adventure with our Trippy poke bowl. Designed for the vegetarian and gluten-free enthusiasts, this bowl showcases the earthy goodness of shrooms, paired with a delightful ensemble of avocado, seaweed salad, carrot, and more. Topped off with zesty citrus ponzu sauce, every bite is a burst of pure bliss",
+    "rating": 4.7,
+    "ingredients": {
+      "bases": ["White rice", "Brown rice", "Noodles", "Mixed Greens"],
+      "proteins": ["Tofu"],
+      "mixinsAndToppings": ["Carrot", "Edamme", "Cucumber", "Furikake"],
+      "sauces": ["Citrus ponzu"]
+    },
+    "ingredientsImages": {
+      "bases": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/whiteRice.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/brownRice.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/noodles.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/mixedGreens.png"
+      ],
+      "proteins": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/proteins/tofu.webp"
+      ],
+      "sauces": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/sauces/CitrusPonzu.png"
+      ],
+      "mixinsAndToppings": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/toppings/carrots.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/toppings/edamme.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/toppings/cucumbers.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/toppings/furikake.png"
+      ]
+    },
+    "labels": ["Vegetarian", "Gluten-free"],
+    "reviews": [""]
+  },
+
+  {
+    "name": "Hold the chicken",
+    "price": 9.97,
+    "image": "https://jumbo-bowls.onrender.com/dist/public/images/covers/bowl6.avif",
+    "calories": 500,
+    "nutriScore": 77,
+    "summary": "Enjoy a protein-packed delight that's perfect for both kids and adults alike.",
+    "description": "Get ready for a protein-packed delight with our Hold the Chicken poke bowl. Indulge in the tender and juicy baked chicken, accompanied by a refreshing medley of cucumber, carrot, corn, cilantro, scallion, and onion. Each bite is a perfect balance of flavors. Drizzled with our irresistible Sweet Yuzu sauce, this classic high-protein bowl is a wholesome and delicious choice.",
+    "rating": 4.7,
+    "ingredients": {
+      "bases": ["White rice", "Brown rice", "Noodles"],
+      "proteins": ["Baked chicken"],
+      "mixinsAndToppings": ["Cucumber", "Carrot", "Corn", "Cilantro"],
+      "sauces": ["Sweet yuzu"]
+    },
+    "ingredientsImages": {
+      "bases": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/whiteRice.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/brownRice.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/noodles.png"
+      ],
+      "proteins": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/proteins/chicken.png"
+      ],
+      "sauces": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/sauces/SweetYuzu.png"
+      ],
+      "mixinsAndToppings": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/toppings/cucumbers.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/toppings/carrots.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/toppings/corn.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/toppings/cilantro.png"
+      ]
+    },
+    "labels": ["Classic", "High-protein"],
+    "reviews": [""]
+  },
+  {
+    "name": "Grazer",
+    "price": 8.97,
+    "image": "https://jumbo-bowls.onrender.com/dist/public/images/covers/bowl7.avif",
+    "calories": 460,
+    "nutriScore": 74,
+    "summary": "Embrace the freshest vegetarian ingredients in a bowl that satisfies your cravings guilt-free.",
+    "description": "For the vegetarian and gluten-free enthusiasts, our Grazer poke bowl is a feast for the senses. Explore a variety of textures and flavors with a delightful mix of cucumber, edamme, carrot, alfalfa sprouts, corn, onion, mango, pineapple, chia seeds, and wonton crisps. Topped off with our savory Sesame Waina sauce, this bowl is a perfect combination of freshness and satisfaction.",
+    "rating": 4.8,
+    "ingredients": {
+      "bases": ["White rice", "Brown rice", "Noodles", "Mixed Greens"],
+      "proteins": ["Tofu"],
+      "mixinsAndToppings": ["Cucumber", "Mango", "Pineaple", "Seasame Seeds"],
+      "sauces": ["Sesame Waina"]
+    },
+    "ingredientsImages": {
+      "bases": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/whiteRice.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/brownRice.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/noodles.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/mixedGreens.png"
+      ],
+      "proteins": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/proteins/tofu.webp"
+      ],
+      "sauces": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/sauces/SesameWaina.png"
+      ],
+      "mixinsAndToppings": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/toppings/cucumbers.png",
+
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/toppings/mango.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/toppings/pineaple.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/toppings/sesameSeeds.png"
+      ]
+    },
+    "labels": ["Vegetarian", "Gluten-free"],
+    "reviews": [""]
+  },
+  {
+    "name": "Green panther",
+    "price": 9.97,
+    "image": "https://jumbo-bowls.onrender.com/dist/public/images/covers/bowl1.avif",
+    "calories": 80,
+    "nutriScore": 81,
+    "summary": "Unleash your taste buds with a vegetarian poke bowl that packs a fiery punch.",
+    "description": "Ignite your taste buds with the Green Panther poke bowl. This vegetarian delight features the perfect blend of tofu, avocado, mixed greens, jalapeno, cucumber, radish sprouts, edamme, and chia seeds. Each bite offers a harmonious balance of flavors and a touch of spiciness. Drizzled with our tantalizing Sesame Waina sauce, the Green Panther is a vegetarian masterpiece that packs a flavorful punch.",
+    "rating": 4.9,
+    "ingredients": {
+      "bases": ["White rice", "Brown rice", "Noodles", "Mixed Greens"],
+      "proteins": ["Tofu"],
+      "mixinsAndToppings": [
+        "Mixed Greens",
+        "Cucumber",
+        "Radish sporuts",
+
+        "Seasame Seeds"
+      ],
+      "sauces": ["Sesame Waina"]
+    },
+    "ingredientsImages": {
+      "bases": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/whiteRice.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/brownRice.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/noodles.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/mixedGreens.png"
+      ],
+      "proteins": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/proteins/tofu.webp"
+      ],
+      "sauces": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/sauces/SesameWaina.png"
+      ],
+      "mixinsAndToppings": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/mixedGreens.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/toppings/cucumbers.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/toppings/radishSprouts.png",
+
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/toppings/sesameSeeds.png"
+      ]
+    },
+    "labels": ["Vegetarian", "Spicy"],
+    "reviews": [""]
+  },
+  {
+    "name": "Cali Classic",
+    "price": 9.99,
+    "image": "https://jumbo-bowls.onrender.com/dist/public/images/covers/bowl9.avif",
+    "calories": 93,
+    "nutriScore": 81,
+    "summary": "Dive into a coastal culinary adventure with this high-protein poke bowl inspired by California.",
+    "description": "Transport yourself to the sunny beaches of California with our Cali Classic poke bowl. This bowl combines the ocean's treasures of krab  and tuna with the creaminess of avocado, the richness of shredded nori, the nuttiness of sesame seeds, the burst of massago, and the earthiness of shrooms. Finished with our refreshing Avocado Lime sauce, this high-protein bowl is a delightful Californian adventure for your taste buds.",
+    "rating": 4.8,
+    "ingredients": {
+      "bases": ["White rice", "Brown rice", "Noodles", "Mixed Greens"],
+      "proteins": ["Krab", "Tuna"],
+      "mixinsAndToppings": [
+        "Avocado",
+        "Radish sporuts",
+        "Sesame seeds",
+        "Massago"
+      ],
+      "sauces": ["Avocado lime"]
+    },
+    "ingredientsImages": {
+      "bases": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/whiteRice.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/brownRice.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/noodles.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/bases/mixedGreens.png"
+      ],
+      "proteins": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/proteins/krab.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/proteins/tuna.png"
+      ],
+      "sauces": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/sauces/AvocadoLime.png"
+      ],
+      "mixinsAndToppings": [
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/toppings/avocado.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/toppings/radishSprouts.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/toppings/sesameSeeds.png",
+        "https://jumbo-bowls.onrender.com/dist/public/images/ingredients/toppings/massago.png"
+      ]
+    },
+    "labels": ["High-protein"],
+    "reviews": [""]
+  }
+]

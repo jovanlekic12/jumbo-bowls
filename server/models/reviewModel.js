@@ -56,4 +56,4 @@ reviewSchema.pre(/^find/, function (next) {
   next();
 });
 
-export const Review = mongoose.model < reviewType > ("Review", reviewSchema);
+export const Review = mongoose.model("Review", reviewSchema);

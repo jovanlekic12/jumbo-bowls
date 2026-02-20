@@ -6,6 +6,7 @@ import { BrowserRouter, Route, Routes } from "react-router";
 import Layout from "./components/Layout";
 import HomePage from "./pages/Home/Index";
 import Login from "./pages/Login/Index";
+import SignUp from "./pages/Signup/Index";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -30,9 +31,10 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
+        <Route index element={<Login />} />
+        <Route path="/signup" element={<SignUp />} />
         <Route path="/" element={<Layout />}>
-          <Route index element={<HomePage />} />
-          <Route path="login" element={<Login />} />
+          <Route element={<HomePage />} />
         </Route>
       </Routes>
     </BrowserRouter>
